@@ -1,0 +1,47 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+    color: #373a40;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: #373a40 ;
+    color: #eeeeee;
+    margin: 0;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+
+
+}
+
+header h1 {
+    font-size: 30px;
+    margin: 0;
+}
+
+header a {
+    text-decoration: none;
+    color: #eeeeee;
+    margin-right: 3px;
+}
+
+.home{
+    padding-top: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.home h2{
+    margin-bottom: 0;
+}
+
+.home p{
+    padding: 5px 10px;
+}
